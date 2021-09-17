@@ -1,5 +1,5 @@
 **Fáilte ó chroí** 👋🏻   
-👨🏻‍💻**𝕊𝕖á𝕟 𝕄𝕒𝕔𝔸𝕠𝕕𝕙𝕒** is ainm dom agus is mise **๏𝐢𝐥𝐥𝐢𝐩𝐡é𝐢𝐬𝐭** 
+👨🏻‍💻**𝕊𝕖á𝕟 𝕄𝕒𝕔𝔸𝕠𝕕𝕙𝕒** is ainm dom agus is mise **๏𝐢𝐥𝐢𝐩𝐡é𝐢𝐬𝐭** 
 
 ⚙️ `.dart`, `.rust`, `.html`, `.css`, `.js`, `.svg`, `.py`, `.java`, `.swift`  
 🗣 Gaielge, Béarla agus Spáinnise  
